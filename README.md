@@ -4,7 +4,7 @@ Contributors: Alex Calametti
 
 Overview: 
 
-The main objective of this project was to create an interactive dashboard for users to explore a dataset containing information on the biodiversity of microbes found in human belly buttons. The dataset showed that for most people, a small number of microbial species (operational taxonmoic units, OTUs) were found in most individuals while the rest were more rare. The interactive dashboard allows users to look at metadata for each individual with a demographic info table, bar chart, bubble chart, and gauge. 
+The main objective of this project was to create an interactive dashboard for users to explore a dataset containing information on the biodiversity of microbes found in human belly buttons. The dataset showed that for most people, a small number of microbial species (operational taxonmoic units, OTUs) were found in most individuals while the rest were more rare. The interactive dashboard allows users to look at metadata for each individual with a demographic info table, bar chart, bubble chart, and gauge. The dashboard can be found at this page: https://acalametti.github.io/belly-button-challenge/
 
 What you need: 
 
